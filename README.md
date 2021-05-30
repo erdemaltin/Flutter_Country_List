@@ -1,6 +1,6 @@
 # Flutter_Country_List
 
-App Screen
+App Screenshots
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/25149142/120121533-b5966480-c1ac-11eb-9501-9c5fd93bb308.PNG)
 
