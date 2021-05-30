@@ -8,4 +8,4 @@ App Screenshots
 
 ![Ekran Alıntısı3](https://user-images.githubusercontent.com/25149142/120121539-bdee9f80-c1ac-11eb-8e9c-0c64da616877.PNG)
 
-![Ekran Alıntısı4](https://user-images.githubusercontent.com/25149142/120121543-c0e99000-c1ac-11eb-8321-625edeb46edf.PNG)
+![Ekran Alıntısı4](https://user-images.githubusercontent.com/25149142/120121687-892f1800-c1ad-11eb-9a5d-9f3a169d8e89.PNG)
